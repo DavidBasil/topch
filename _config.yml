@@ -1,0 +1,3 @@
+baseurl: /topch
+exclude: ['README.md']
+permalink: pretty
